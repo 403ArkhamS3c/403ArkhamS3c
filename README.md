@@ -107,7 +107,7 @@ I use GitHub to document my progress, maintain practical projects, and turn hand
   <img src="https://streak-stats.demolab.com?user=403ArkhamS3c&hide_border=true&background=0D1117&ring=7CFFB2&fire=7CFFB2&currStreakLabel=7CFFB2&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
 </p>
 
-<sub>Statistics are provided by third-party services and may be unavailable or inaccurate. Language statistics reflect repository contents, not necessarily overall programming proficiency.</sub>
+
 
 ## `$ connect --with 403ArkhamS3c`
 
@@ -120,8 +120,7 @@ I use GitHub to document my progress, maintain practical projects, and turn hand
   </a>
 </p>
 
-- LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/satria-hidayat-84aa1341b/)
-- Email: `satriamaulana583@gmail.com`
+Email: `satriamaulana583@gmail.com`
 
 ---
 
