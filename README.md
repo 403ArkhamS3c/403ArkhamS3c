@@ -37,70 +37,6 @@ My goal is to develop strong fundamentals in offensive security while understand
 
 > I value reproducible findings, honest documentation, and technical understanding over tool collections or unverified claims.
 
-## `$ ls ./projects`
-
-My projects focus on practical security problems, small automation tools, and research that can be inspected and reproduced.
-
-<!-- Replace the placeholders below with actual repository URLs and evidence. -->
-
-### 01. Security Research & Technical Write-ups
-
-**Focus:** Vulnerability analysis, attack-surface investigation, and root-cause understanding.
-
-- Document the investigation process and relevant observations.
-- Explain the vulnerability mechanism and its potential impact.
-- Include reproducible evidence from authorized labs or explicitly permitted targets.
-- Discuss remediation, limitations, and lessons learned.
-
-**Tech:** Linux, HTTP, command-line tools, security testing tools
-
-[View repository](YOUR_WRITEUPS_REPOSITORY_URL)
-
-### 02. Security Automation Toolkit
-
-**Focus:** Building small scripts to improve repetitive security research tasks.
-
-Potential areas of development:
-- HTTP response inspection
-- Reconnaissance data processing
-- URL and endpoint organization
-- Output normalization and filtering
-- Structured evidence collection
-
-**Tech:** Python, Bash, command-line utilities
-
-[View repository](YOUR_AUTOMATION_REPOSITORY_URL)
-
-### 03. Web & API Security Lab
-
-**Focus:** Understanding common web vulnerabilities through controlled experiments.
-
-Areas to explore:
-- Broken access control and BOLA
-- Authentication and session management
-- Input validation and injection
-- Security misconfigurations
-- Authorization testing and remediation validation
-
-**Tech:** HTTP, REST APIs, Burp Suite or equivalent testing tools
-
-[View repository](YOUR_WEB_SECURITY_LAB_REPOSITORY_URL)
-
-### Project documentation standard
-
-For each completed project, I aim to include:
-
-| Component | What it demonstrates |
-|---|---|
-| Problem statement | The security problem being investigated |
-| Methodology | How the investigation was conducted |
-| Evidence | Requests, responses, logs, screenshots, or test results |
-| Analysis | Why the behavior occurs and what it means |
-| Remediation | How the issue can be mitigated |
-| Reproducibility | Setup instructions and steps to reproduce safely |
-
-*The project descriptions above are portfolio templates. Replace them with actual implementations and evidence before presenting them as completed projects.*
-
 ## `$ cat ./current-focus.md`
 
 | Area | Current learning direction |
@@ -141,25 +77,14 @@ I prioritize understanding the underlying mechanisms rather than relying on auto
 I use authorized training environments to develop practical skills and improve my methodology.
 
 - **Hack The Box:** Hands-on machine and service enumeration practice.
-- **TryHackMe:** Structured cybersecurity learning paths.
+  
 - **CTF challenges:** Problem-solving and security fundamentals.
 
 My learning notes focus on the reasoning behind each step, what the evidence proves, where my assumptions failed, and what I learned from the exercise.
 
 Write-ups will be published when they are sufficiently documented and do not disclose restricted challenge content, sensitive information, or unauthorized target details.
 
-[Explore my lab notes](YOUR_LAB_NOTES_REPOSITORY_URL)
-
-## `$ cat ./principles.txt`
-
-```text
-01. Understand the vulnerability before choosing the tool.
-02. Validate findings with evidence, not assumptions.
-03. Test only systems I own or am explicitly authorized to assess.
-04. Document limitations as well as successful results.
-05. Treat remediation as part of security research.
-06. Never confuse tool output with technical understanding.
-```
+[Explore my lab notes](comingsoon)
 
 ## `$ cat ./currently-learning.md`
 
@@ -190,14 +115,13 @@ I use GitHub to document my progress, maintain practical projects, and turn hand
   <a href="https://github.com/403ArkhamS3c">
     <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/satria-hidayat-84aa1341b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
-- LinkedIn: [YOUR_LINKEDIN_URL](YOUR_LINKEDIN_URL)
-- Email: `YOUR_PROFESSIONAL_EMAIL`
-- Portfolio: [YOUR_PORTFOLIO_URL](YOUR_PORTFOLIO_URL)
+- LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/satria-hidayat-84aa1341b/)
+- Email: `satriamaulana583@gmail.com`
 
 ---
 
